@@ -1,6 +1,6 @@
 # Diversification as Risk-Minimization - Supplementary Meterial
 
-## Main Text _with Appendix_ (PDF) is [HERE](https://github.com/anonymousIR26/wsdm-sup/raw/main/paper.pdf)
+## Main Text _with Appendix_ (PDF) is [HERE](https://raw.githubusercontent.com/anonymousIR26/wsdm-sup/main/paper.pdf)
 The PDF contains the **main text** and a detailed **appendix** with **proofs, additional experiments, and limitations**.
 
 - **Main Text (start)** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2FanonymousIR26%2Fwsdm-sup%2Fmain%2Fpaper.pdf#page=1)
