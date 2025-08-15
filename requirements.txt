@@ -1,7 +1,7 @@
-numpy
-pandas
-matplotlib
-scipy
-pyyaml
-tqdm
-pulp
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+pyyaml>=6.0
+tqdm>=4.62.0
+pulp>=2.6.0
