@@ -1,0 +1,27 @@
+dataset: INTENT-2DR   # MOVIELENS, INTENT-2DR, WEB
+metric: rel              # rel | dcg | map
+k: 10
+c_noise: 0.0
+tgt_lvl: 1.0
+
+methods:       
+  - ours
+  - naive_rank
+  - ia_select
+  - greedy_rank
+  - xquad
+  - mmr 
+  - calibrated
+  - fair
+
+# default hyper-parameters; can be overridden by sweep
+beta: 0.1
+lamb: 0.5
+
+experiment_params:       # keys you may sweep from CLI
+  beta: [0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1.0]
+  k:     [5, 10, 15, 20, 25]
+  lamb:  [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
+  metric: [rel, ndcg, dcg, err, rbp, prec]
+  c_noise: [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
+  tgt_lvl: [0.2, 0.4, 0.6, 0.8, 1.0]
