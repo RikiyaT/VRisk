@@ -1,5 +1,5 @@
-# Code for _Diversification as Risk-Minimization_, full paper at WSDM 2026
-
+# Diversification as Risk-Minimization
+Code for "Diversification as Risk-Minimization", full paper at WSDM 2026
 
 ## How to Run the Code
 
