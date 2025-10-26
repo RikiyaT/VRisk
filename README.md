@@ -1,12 +1,5 @@
-# Diversification as Risk-Minimization - Supplementary Meterial
+# Code for _Diversification as Risk-Minimization_, full paper at WSDM 2026
 
-## Main Text _with Appendix_ (PDF) is [HERE](https://raw.githubusercontent.com/anonymousIR26/wsdm-sup/main/paper.pdf)
-The PDF contains the **main text** and a detailed **appendix** with **proofs and additional experiments**.
-
-### You can jump directly to the pages here:
-- **Main Text** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2FanonymousIR26%2Fwsdm-sup%2Fmain%2Fpaper.pdf#page=1)
-- **Proofs** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2FanonymousIR26%2Fwsdm-sup%2Fmain%2Fpaper.pdf#page=11)
-- **Additional Experiments** — [HERE](https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fraw.githubusercontent.com%2FanonymousIR26%2Fwsdm-sup%2Fmain%2Fpaper.pdf#page=12)
 
 ## How to Run the Code
 
